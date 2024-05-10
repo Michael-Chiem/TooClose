@@ -2,7 +2,14 @@
 # TooClose - PWA - Challenge 19
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![Project Image](N/A)
+![Project Image](./Test_Images/1-%20npm%20run%20start.jpg)
+![Project Image](./Test_Images/2%20-%20npm%20run%20build.jpg)
+![Project Image](./Test_Images/3%20-%20localhost%203001.jpg)
+![Project Image](./Test_Images/3%20-%20localhost%203001.jpg)
+![Project Image](./Test_Images/4%20-%20Console%20log.jpg)
+![Project Image](./Test_Images/5-%20manifest.jpg)
+![Project Image](./Test_Images/6%20-%20Network.jpg)
+![Project Image](./Test_Images/7%20-%20service%20workers.jpg)
 
 ## Description
 I am building a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
